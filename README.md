@@ -43,7 +43,7 @@ Once the app is running, it will:
 The support data for TrollStore is defined within the app in the `trollStoreSupportData` array. This data includes the supported iOS versions, architectures, and relevant links for installation guides and official websites.
 
 ## Contributing
-
+Thanks for Mattycbtw for updating ViewModel and More!
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
 ## License
